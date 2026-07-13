@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/diffusers
+transformers
+kernels
+gradio[mcp] @ https://huggingface.co/buckets/gradio/pypi-previews/resolve/649fb79929e3b44485a4a07c327faa97016854b5/gradio-6.14.0-py3-none-any.whl
