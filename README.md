@@ -10,6 +10,7 @@ The application uses the **Z-Image-Turbo diffusion model** to generate high-qual
 ## Preview:
 
 Try it out on my HuggingFace Server: https://huggingface.co/spaces/eva1267890/MagicImage
+Scroll down to see the screenshots ✨
 
 ---
 
@@ -45,7 +46,13 @@ Try it out on my HuggingFace Server: https://huggingface.co/spaces/eva1267890/Ma
 
 Screenshots:
 
-will be available soon
+<p align="center">
+<img src="ScreenshotNo1.png" width="900">
+</p>
+
+<p align="center">
+<img src="ScreenshotNo2.png" width="900">
+</p>
 
 # 🛠️ Tech Stack
 
